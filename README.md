@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/logo.png" alt="College Admission Assistance Agent" width="160"/>
+<img src="/frontend/public/logo.png" alt="College Admission Assistance Agent" width="160"/>
 
 # College Admission Assistance Agent
 
