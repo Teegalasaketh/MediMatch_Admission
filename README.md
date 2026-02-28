@@ -138,7 +138,7 @@ User visits / ──► AuthContext checks Supabase session
 ## 📁 Project Structure
 
 ```
-college-admission-agent/
+EduMatch-Admission/
 │
 ├── backend/                          # FastAPI backend
 │   ├── main.py                       # Main app — all routes, data, RAG, scoring
@@ -269,7 +269,7 @@ Results display as `CollegeCard` components with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/college-admission-agent.git
+git clone https://github.com/your-org/EduMatch-Admission.git
 cd college-admission-agent
 ```
 
@@ -399,6 +399,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 Built with ❤️ for Indian students navigating college admissions
 
-**[Report Bug](https://github.com/your-org/college-admission-agent/issues)** · **[Request Feature](https://github.com/your-org/college-admission-agent/issues)**
+**[Report Bug](https://github.com/your-org/EduMatch-Admission/issues)** · **[Request Feature](https://github.com/your-org/EduMatch-Admission/issues)**
 
 </div>
